@@ -3,13 +3,15 @@
 ## Table of contents
 
 * [Motivation](#motivation)
-* [Goals](#goals)
+* [Approach](#goals)
 * [Usage](#usage)
 * [Installation](#installation)
 * [Development Status](#development-status)
 * [About us](#about-us)
 
 ## Motivation
+
+The aim of this project is to address the problem of scattered college living information and disconnected student communities by creating a hub for college students to share resources, event information, and ideas. This platform will allow students to create accounts using their university email, share details about social, sporting, and career events on and around campus, and interact with local businesses' event advertisements. Students can also share their extra meal swipes, post items for sale, and access aggregated social media links from various university entities. This solution seeks to enhance the college experience by fostering a more interconnected and resource-sharing community for students at the University of Hawaii.
 
 ## Approach
 
