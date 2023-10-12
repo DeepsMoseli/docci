@@ -17,29 +17,39 @@ The aim of this project is to address the problem of scattered college living in
 
 ## Usage
 
-### Sign Up
+### Splash, Sign in, sign pp
 
-<img src="./img/signup_page.png" alt="Signup page" width=300 height=600 />
+<p style="text-align: center">
+  <img src="./img/splash_page.png" alt="Splash page" width="32%"/>
+&nbsp; &nbsp; 
+ <img src="./img/signup_page.png" alt="Sign up page" width="30%" />
+&nbsp; &nbsp; 
+  <img src="./img/signin_page.png" alt="Sign in page" width="30%" />
+</p>
 
-### Sign In
+### Home: my feed, Trending, coming soon,
 
-<img src="./img/signup_page.png" alt="sigin page" width=300 height=600 />
+<p style="text-align: center">
+  <img src="./img/home.png" alt="feed" width="30%" />
+&nbsp; &nbsp; 
+ <img src="./img/trending.png" alt="trending" width="30%" />
+&nbsp; &nbsp; 
+  <img src="./img/coming_soon.png" alt="coming soon" width="30%" />
+</p>
 
-### Home Page
+### Events page, Marketplace, Campus Links
 
-<img src="./img/signup-page.png" alt="Home" width=300 height=600 />
+<p style="text-align: center">
+  <img src="./img/events.png" alt="Events page" width="30%" />
+&nbsp; &nbsp; 
+ <img src="./img/marketplace.png" alt="market place" width="30%" />
+&nbsp; &nbsp; 
+ <img src="./img/campus_links.png" alt="market place" width="30%" />
+</p>
 
-### Market Place
 
-<img src="./img/Buy.png" alt="Market place" width=300 height=600 />
-
-
-### Events page
-
-<img src="./img/events.png" alt="Events page" width=300 height=600 />
-
-### Campus Links
-
+### Sell Item, Camera, upload from file
+ <img src="./img/campus_links.png" alt="market place" width="30%" />
 
 
 ## Installation
