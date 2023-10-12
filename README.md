@@ -15,6 +15,21 @@ The aim of this project is to address the problem of scattered college living in
 
 ## Approach
 
+Creating a hub that allows college students to share ideas, event information, and resources such as extra food, extra meal swipes, and books with fellow students in their college.
+
+### Students will be able to
+
+- Create accounts using their UH email, and share information about social, sporting, or career events happening in and around campus
+- local businesses will be allowed to advertise events students are likely to be interested in. Students have the option to disable seeing ads
+- Share their extra meal swipes at the cafeteria with other students for money or donate to another student. The app will not facilitate the actual transactions.
+- Post items they are looking to sell and be able to chat with potential student buyers. The app will however not facilitate the actual transactions.
+- See aggregated social media links of the different university bodies such as the gym, sporting facilities, admissions office, the different restaurants on campus, and so on. These normally sit in different parts of the web, making information hard to find.
+
+### Why mobile:
+
+A mobile app allows students to access the platform conveniently from anywhere, and enjoy the benefits of push notifications that alert them of events they might be interested in.
+
+
 ## Usage
 
 ### Splash, Sign in, sign pp
