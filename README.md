@@ -35,7 +35,7 @@ A mobile app allows students to access the platform conveniently from anywhere, 
 ### Splash, Sign in, sign pp
 
 <p style="text-align: center">
-  <img src="./img/splash_page.png" alt="Splash page" width="32%"/>
+  <img src="./splash_page.jpg" alt="Splash page" width="32%"/>
 &nbsp; &nbsp; 
  <img src="./signup_dark.jpg" alt="Sign up page" width="30%" />
 &nbsp; &nbsp; 
@@ -49,7 +49,9 @@ A mobile app allows students to access the platform conveniently from anywhere, 
 &nbsp; &nbsp; 
  <img src="./drawer_dark.jpg" alt="trending" width="30%" />
 &nbsp; &nbsp; 
-  <img src="./edit_message.jpg" alt="coming soon" width="30%" />
+  <img src="./edit_message.jpg" alt="reply message" width="30%" />
+  &nbsp; &nbsp; 
+  <img src="./new_message.jpg" alt="new message" width="30%" />
 </p>
 
 ### Events page, Marketplace, Campus Links
@@ -59,7 +61,7 @@ A mobile app allows students to access the platform conveniently from anywhere, 
 &nbsp; &nbsp; 
  <img src="./img/marketplace.png" alt="market place" width="30%" />
 &nbsp; &nbsp; 
- <img src="./img/campus_links.png" alt="market place" width="30%" />
+ <img src="./img/campus_links.png" alt="campus_links" width="30%" />
 </p>
 
 
