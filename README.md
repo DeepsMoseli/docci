@@ -37,19 +37,19 @@ A mobile app allows students to access the platform conveniently from anywhere, 
 <p style="text-align: center">
   <img src="./img/splash_page.png" alt="Splash page" width="32%"/>
 &nbsp; &nbsp; 
- <img src="./img/signup_dark.jpg" alt="Sign up page" width="30%" />
+ <img src="./signup_dark.jpg" alt="Sign up page" width="30%" />
 &nbsp; &nbsp; 
-  <img src="./img/signin_dark.png" alt="Sign in page" width="30%" />
+  <img src="./signin_dark.jpg" alt="Sign in page" width="30%" />
 </p>
 
 ### Home: inbox, drawer, edit message,
 
 <p style="text-align: center">
-  <img src="./img/inbox_dark.jpg" alt="feed" width="30%" />
+  <img src="./inbox_dark.jpg" alt="feed" width="30%" />
 &nbsp; &nbsp; 
- <img src="./img/drawer_dark.jpg" alt="trending" width="30%" />
+ <img src="./drawer_dark.jpg" alt="trending" width="30%" />
 &nbsp; &nbsp; 
-  <img src="./img/edit_message.png" alt="coming soon" width="30%" />
+  <img src="./edit_message.jpg" alt="coming soon" width="30%" />
 </p>
 
 ### Events page, Marketplace, Campus Links
